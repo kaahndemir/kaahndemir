@@ -5,6 +5,9 @@ developer who is in love with programming,
 I have started my programming journey in early 2021 and 6 months convinced me to leave the school :)
 
 ![codeoguz_gif](https://user-images.githubusercontent.com/89513831/148246469-63302409-cf39-4bc8-a2a1-ad0abcc3fe3a.gif) </br>
+
+<a href='https://github.com/codeoguz/weboost2022'>I have joined a hackathon</a>
+
 • I am a high school student located in<img src='https://user-images.githubusercontent.com/89513831/148243117-3483fdc3-d382-41fa-8e47-4543970fd0ec.png' height='20px'>.</br>
 • I am the developer of [FlipCard](https://play.google.com/store/apps/details?id=xyz.codeoguz.FlipCard&hl=en_GB&gl=TR)<img src="https://user-images.githubusercontent.com/89513831/148282204-d9361980-d6b1-4229-8aee-ba5dfb6e7b60.png" width='20px'>
 

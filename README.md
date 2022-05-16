@@ -11,9 +11,10 @@ I have started my programming journey in early 2021 and 6 months convinced me to
 • I am a high school student located in<img src='https://user-images.githubusercontent.com/89513831/148243117-3483fdc3-d382-41fa-8e47-4543970fd0ec.png' height='20px'>.</br>
 • I am the developer of [FlipCard](https://play.google.com/store/apps/details?id=xyz.codeoguz.FlipCard&hl=en_GB&gl=TR)<img src="https://user-images.githubusercontent.com/89513831/148282204-d9361980-d6b1-4229-8aee-ba5dfb6e7b60.png" width='20px'>
 
+<a href='http://codeoguz.com'>Visit my website</a>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="1enter">
 <a href="https://twitter.com/codeoguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeoguz" height="30" width="40" /></a>
 </p>
  

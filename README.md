@@ -1,4 +1,4 @@
-## Welcome to Oguz's Profile <img src="https://user-images.githubusercontent.com/89513831/148391461-a857c2ba-2a87-48b3-b910-b9219a364882.gif" height='30px'>
+## Welcome to Oğuz's Profile <img src="https://user-images.githubusercontent.com/89513831/148391461-a857c2ba-2a87-48b3-b910-b9219a364882.gif" height='30px'>
 
 I'm a <img src="https://user-images.githubusercontent.com/89513831/148235491-66fe3750-09c9-434e-bd6b-1bc69f2f9b5f.png" width='10px'> Flutter 
 developer who is in love with programming,

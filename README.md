@@ -11,21 +11,21 @@ My life goal is to serve different projects solutions to finance and entertainme
 - I have clear goals.
 
 ### Achievements:
-<a href='https://codead.com.tr'>I interned at a software company for a year</a><br/>
-I underwent an internship at ![Codead](https://codead.com.tr). Internship was about digital marketing and web development.
+#### 1 year internship at a software company</a><br/>
+I underwent an internship at www.codead.com.tr. Internship was about digital marketing and web development.
 
-<a href='https://hatmecem.web.app'>Hatmedecem</a><br/>
+#### <a href='https://hatmecem.web.app'>Hatmedecem</a><br/>
 A web app to read hatms (a whole recitation of Quran) with family and friends.</br>
 **Technologies:** React, Firebase
 
-<a href='https://play.google.com/store/apps/details?id=xyz.codeoguz.FlipCard&hl=en_GB&gl=T'>FlipCard</a><br/>
+#### <a href='https://play.google.com/store/apps/details?id=xyz.codeoguz.FlipCard&hl=en_GB&gl=T'>FlipCard</a><br/>
 An android app to study any subject with flash cards.</br>
 **Technologies:** Flutter, Firebase
 
-<a href='https://codeoguz-website.web.app/'>Personal Website</a><br/>
+#### <a href='https://codeoguz-website.web.app/'>Personal Website</a><br/>
 A personal website design inspired by developer.apple.com.
 
-<a href='https://github.com/codeoguz/weboost2022'>WeBoost Hackathon</a><br/>
+#### <a href='https://github.com/codeoguz/weboost2022'>WeBoost Hackathon</a><br/>
 As my first Hackathon we took the 4th place with my team. </br>
 **Technologies:** Javascript, HTML, CSS, Bootstrap
 

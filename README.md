@@ -7,7 +7,7 @@ Hi there! I'm Oğuz Kaan Demir, but you can call me codeoguz. I'm a 17-year-old 
 My life goal is to serve different projects solutions to finance and entertainment.
 
 ### Key points:
-- I left school to learn about programming.
+- I left high school to learn about programming.
 - I have clear goals.
 
 ### Achievements:

@@ -1,17 +1,32 @@
 ## Welcome to Oğuz's Profile <img src="https://user-images.githubusercontent.com/89513831/148391461-a857c2ba-2a87-48b3-b910-b9219a364882.gif" height='30px'>
 
-I'm a <img src="https://user-images.githubusercontent.com/89513831/148235491-66fe3750-09c9-434e-bd6b-1bc69f2f9b5f.png" width='10px'> Flutter 
-developer who is in love with programming,
-I have started my programming journey in early 2021 and 6 months convinced me to leave the school :)
+Hi there! I'm Oğuz Kaan Demir, but you can call me codeoguz. I'm a 17-year-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, and CSS, Firebase, but I also work with  Flutter, and Python.
 
 ![codeoguz_gif](https://user-images.githubusercontent.com/89513831/148246469-63302409-cf39-4bc8-a2a1-ad0abcc3fe3a.gif) </br>
 
-<a href='https://github.com/codeoguz/weboost2022'>I joined WeBoost web development hackathon. And, we took the 4th place with my team.</a>
+My life goal is to serve different projects solutions to finance and entertainment.
 
-• I am a high school student located in<img src='https://user-images.githubusercontent.com/89513831/148243117-3483fdc3-d382-41fa-8e47-4543970fd0ec.png' height='20px'>.</br>
-• I am the developer of [FlipCard](https://play.google.com/store/apps/details?id=xyz.codeoguz.FlipCard&hl=en_GB&gl=TR)<img src="https://user-images.githubusercontent.com/89513831/148282204-d9361980-d6b1-4229-8aee-ba5dfb6e7b60.png" width='20px'>
 
-<a href='http://codeoguz.com'>Visit my website</a>
+Key points:
+- I left school to learn about programming.
+- I have clear goals.
+
+
+### Achievements:
+<a href='https://hatmecem.web.app'>Hatmedecem</a><br/>
+A web app to read hatms (a whole recitation of Quran) with family and friends.
+Technologies: React, Firebase
+
+<a href='https://play.google.com/store/apps/details?id=xyz.codeoguz.FlipCard&hl=en_GB&gl=T'>FlipCard</a><br/>
+An android app to study any subject with flash cards.
+Technologies: Flutter, Firebase
+
+<a href='https://codeoguz-website.web.app/'>Personal Website</a><br/>
+A personal website design inspired by developer.apple.com.
+
+<a href='https://github.com/codeoguz/weboost2022'>WeBoost Hackathon</a><br/>
+As my first Hackathon we took the 4th place with my team.
+Technologies: Javascripy, HTML, CSS, Bootstrap
 
 <h3 align="center">Connect with me:</h3>
 <p align="1enter">

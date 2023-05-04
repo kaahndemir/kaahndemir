@@ -28,7 +28,7 @@ Technologies: Javascripy, HTML, CSS, Bootstrap
 
 ### Connect with me:
 <p align="1enter">
-<a href="https://instagram.com/codeoguz"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/codeoguz"><img src="https://img.shields.io/badge/-@codeoguz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
  
  ### Tech Stack:

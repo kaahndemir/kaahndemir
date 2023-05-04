@@ -20,7 +20,7 @@ A web app to read hatms (a whole recitation of Quran) with family and friends.</
 
 #### <a href='https://play.google.com/store/apps/details?id=xyz.codeoguz.FlipCard&hl=en_GB&gl=T'>FlipCard</a><br/>
 An android app to study any subject with flash cards.</br>
-**Technologies:** Flutter, Firebase
+**Technologies:** Flutter
 
 #### <a href='https://codeoguz-website.web.app/'>Personal Website</a><br/>
 A personal website design inspired by developer.apple.com.

@@ -1,10 +1,10 @@
 ## Welcome to Oğuz's Profile <img src="https://user-images.githubusercontent.com/89513831/148391461-a857c2ba-2a87-48b3-b910-b9219a364882.gif" height='30px'>
 
-Hi there! I'm Oğuz Kaan Demir, but you can call me codeoguz. I'm a 17-year-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, and CSS, Firebase, but I also work with  Flutter, and Python.
+Hi there! I'm Oğuz Kaan Demir, but you can call me codeoguz. I'm a 17-year-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
 
 ![codeoguz_gif](https://user-images.githubusercontent.com/89513831/148246469-63302409-cf39-4bc8-a2a1-ad0abcc3fe3a.gif) </br>
 
-My life goal is to serve different projects solutions to finance and entertainment.
+My life goal is to serve project solutions to finance and entertainment.
 
 ### Key points:
 - I left high school to learn about programming.
@@ -26,7 +26,7 @@ An android app to study any subject with flash cards.</br>
 A personal website design inspired by developer.apple.com.
 
 #### <a href='https://github.com/codeoguz/weboost2022'>WeBoost Hackathon</a><br/>
-As my first Hackathon we took the 4th place with my team. </br>
+As my first hackathon we took the 4th place with my team. </br>
 **Technologies:** Javascript, HTML, CSS, Bootstrap
 
 ### Connect with me:

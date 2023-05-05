@@ -1,6 +1,9 @@
 ## Welcome to Oğuz's Profile <img src="https://user-images.githubusercontent.com/89513831/148391461-a857c2ba-2a87-48b3-b910-b9219a364882.gif" height='30px'>
 
+
 Hi there! I'm Oğuz Kaan Demir, but you can call me codeoguz. I'm a 17-year-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
+
+![dede-compressed](https://user-images.githubusercontent.com/89513831/236572309-2c0eec63-fef2-4ebc-a649-6973a476fadc.png)
 
 ![codeoguz_gif](https://user-images.githubusercontent.com/89513831/148246469-63302409-cf39-4bc8-a2a1-ad0abcc3fe3a.gif) </br>
 
@@ -47,10 +50,11 @@ As my first hackathon we took the 4th place with my team. </br>
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<div style={{display: "flex"}}>
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeoguz&show_icons=true&locale=en&layout=compact" alt="codeoguz" /></p>
 
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeoguz&" alt="codeoguz" /></p>
+<div>
+<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeoguz&show_icons=true&locale=en&layout=compact" alt="codeoguz" />
+<img height="150px%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeoguz&" alt="codeoguz" />
 </div>
+
 
 

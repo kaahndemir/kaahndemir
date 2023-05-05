@@ -1,20 +1,23 @@
 ## Welcome to Oğuz's Profile <img src="https://user-images.githubusercontent.com/89513831/148391461-a857c2ba-2a87-48b3-b910-b9219a364882.gif" height='30px'>
 
-
-Hi there! I'm Oğuz Kaan Demir, but you can call me codeoguz. I'm a 17-year-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
+Hi there! I'm codeoguz, a 17-year-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
 
 ![dede-compressed](https://user-images.githubusercontent.com/89513831/236572309-2c0eec63-fef2-4ebc-a649-6973a476fadc.png)
 
-![codeoguz_gif](https://user-images.githubusercontent.com/89513831/148246469-63302409-cf39-4bc8-a2a1-ad0abcc3fe3a.gif) </br>
+    ✨ My life goal is to serve project solutions to finance and entertainment.
 
-My life goal is to serve project solutions to finance and entertainment.
+![codeoguz_gif](https://user-images.githubusercontent.com/89513831/148246469-63302409-cf39-4bc8-a2a1-ad0abcc3fe3a.gif) </br>
 
 ### Key points:
 - I left high school to learn about programming.
 - I have clear goals.
 
 ### Achievements:
-#### 1 year internship at a software company</a><br/>
+
+<table>
+  <tr>
+    <td>
+     <h4>1 year internship at a software company</h4>
 I underwent an internship at www.codead.com.tr. Internship was about digital marketing and web development.
 
 #### <a href='https://hatmecem.web.app'>Hatmedecem</a><br/>
@@ -24,13 +27,21 @@ A web app to read hatms (a whole recitation of Quran) with family and friends.</
 #### <a href='https://play.google.com/store/apps/details?id=xyz.codeoguz.FlipCard&hl=en_GB&gl=T'>FlipCard</a><br/>
 An android app to study any subject with flash cards.</br>
 **Technologies:** Flutter
-
+    </td>
+    <td>
 #### <a href='https://codeoguz-website.web.app/'>Personal Website</a><br/>
 A personal website design inspired by developer.apple.com.
 
 #### <a href='https://github.com/codeoguz/weboost2022'>WeBoost Hackathon</a><br/>
 As my first hackathon we took the 4th place with my team. </br>
 **Technologies:** Javascript, HTML, CSS, Bootstrap
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ### Connect with me:
 <p align="1enter">

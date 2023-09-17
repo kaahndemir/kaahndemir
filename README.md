@@ -19,6 +19,7 @@ Hi there! I'm codeoguz, a 17-year-old web developer who loves building things on
     <td>
      <h4>1 year internship at a software company</h4>
 I underwent an internship at www.codead.com.tr. Internship was about digital marketing and web development.
+**Topics:** SEO, UI, UX, Graphic Design, Python, React, Project Development
 
 #### <a href='https://hatmecem.web.app'>Hatmedecem</a><br/>
 A web app to read hatms (a whole recitation of Quran) with family and friends.</br>

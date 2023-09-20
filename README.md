@@ -1,6 +1,6 @@
 ## Welcome to Oğuz's Profile <img src="https://user-images.githubusercontent.com/89513831/148391461-a857c2ba-2a87-48b3-b910-b9219a364882.gif" height='30px'>
 
-Hi there! I'm codeoguz, a 17-year-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
+Hi there! I'm codeoguz, a 18-years-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
 
 ![dede-compressed](https://user-images.githubusercontent.com/89513831/236572309-2c0eec63-fef2-4ebc-a649-6973a476fadc.png)
 
@@ -17,7 +17,7 @@ Hi there! I'm codeoguz, a 17-year-old web developer who loves building things on
 <table>
   <tr>
     <td>
-<h4> 1 year internship at a software company></h4>
+<h4> 1 year internship at a software company</h4>
 I underwent an internship at www.codead.com.tr. Internship was about digital marketing and web development.</br>
 <b>Topics:</b> SEO, UI, UX, Graphic Design, Python, React, Project Development
 
@@ -30,7 +30,7 @@ An android app to study any subject with flash cards.</br>
 **Technologies:** Flutter
     </td>
     <td>
-#### <a href='https://codeoguz-website.web.app/'>Personal Website</a><br/>
+#### <a href='https://codeoguz.com/'>Personal Website</a><br/>
 A personal website design inspired by developer.apple.com.
 
 #### <a href='https://github.com/codeoguz/weboost2022'>WeBoost Hackathon</a><br/>

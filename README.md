@@ -25,7 +25,7 @@ I underwent an internship at www.codead.com.tr. Internship was about digital mar
 A web app to read hatms (a whole recitation of Quran) with family and friends.</br>
 **Technologies:** React, Firebase
 
-#### <a href='https://play.google.com/store/apps/details?id=xyz.codeoguz.FlipCard&hl=en_GB&gl=T'>FlipCard</a><br/>
+#### <a href='https://codeoguz.com/projects/flip-card'>FlipCard</a><br/>
 An android app to study any subject with flash cards.</br>
 **Technologies:** Flutter
     </td>

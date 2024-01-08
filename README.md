@@ -1,6 +1,6 @@
 ## Welcome to Oğuz's Profile <img src="https://user-images.githubusercontent.com/89513831/148391461-a857c2ba-2a87-48b3-b910-b9219a364882.gif" height='30px'>
 
-Hi there! I'm Oğuz Kaan Demir (codeoguz), an 18-years-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
+Hi there! I'm codeoguz, an 18-years-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
 
 ![dede-compressed](https://user-images.githubusercontent.com/89513831/236572309-2c0eec63-fef2-4ebc-a649-6973a476fadc.png)
 

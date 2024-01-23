@@ -2,7 +2,7 @@
 
 Hi there! I'm codeoguz, an 18-years-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
 
-![dede-compressed](https://user-images.githubusercontent.com/89513831/236572309-2c0eec63-fef2-4ebc-a649-6973a476fadc.png)
+![github-featured](https://github.com/codeoguz/codeoguz/assets/89513831/6d127232-2732-4c36-b7ab-7fbc45f7efcf)
 
     ✨ My life goal is to serve project solutions to finance and entertainment.
 

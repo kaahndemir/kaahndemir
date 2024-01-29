@@ -35,15 +35,15 @@ Empowered by my daily analysis of startups, I bring a unique perspective to idea
 
 <br>
 
-<a href="https://codead.com.tr/"><img align="left" style="margin-right: 20px; object-fit:contain" src="https://github.com/codeoguz/codeoguz/assets/89513831/3e9eb62b-7b6a-4aa6-84c1-c55858571263" alt="codead" width="150" height="100" /></a>
+<a href="https://codead.com.tr/"><img align="left" style="margin-right: 20px; object-fit: contain" src="https://github.com/codeoguz/codeoguz/assets/89513831/3e9eb62b-7b6a-4aa6-84c1-c55858571263" alt="codead" width="150" height="29.5" /></a>
 
-I underwent an internship at CodeAd. Internship was about digital marketing and web development. Topics: SEO, UI, UX, Graphic Design, Python, React, Project Development.
+I underwent an internship at CodeAd. The internship was about digital marketing and web development. Topics: SEO, UI, UX, Graphic Design, Python, React, Project Development.
 
 <br>
 
-<a href="https://arbeit.studio"><img align="left" style="margin-right: 20px; object-fit:contain" src="https://github.com/codeoguz/codeoguz/assets/89513831/5f3bc2cc-36cb-41ec-9157-b74cdfdfa5b6" alt="codead" width="150" height="100" /></a>
-
-Contributing as a frontend developer and web designer at Arbeit Studio, I collaborate with a dynamic team to craft innovative digital experiences that resonate with our clients' visions.
+<a href="https://arbeit.studio"><img align="left" style="margin-right: 20px; object-fit: contain" src="https://github.com/codeoguz/codeoguz/assets/89513831/5f3bc2cc-36cb-41ec-9157-b74cdfdfa5b6" alt="codead" width="150" height="48" /></a>
+<br>
+Contributing as a front-end developer and web designer at Arbeit Studio, I collaborate with a dynamic team to craft innovative digital experiences that resonate with our clients' visions.
 
 ## 🌐 Socials:
 

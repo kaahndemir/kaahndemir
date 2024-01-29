@@ -1,48 +1,14 @@
-## Welcome to Oğuz's Profile <img src="https://user-images.githubusercontent.com/89513831/148391461-a857c2ba-2a87-48b3-b910-b9219a364882.gif" height='30px'>
+Empowered by my daily analysis of startups, I bring a unique perspective to idea creation in development. My process involves sensing the problem, analyzing previous solutions, empathizing with users, ideating innovative concepts, meticulous planning, thoughtful design, and skillful development.
 
-Hi there! I'm codeoguz, an 18-years-old web developer who loves building things on the web. My focus is on React, JavaScript, HTML, CSS, and Firebase, but I also work with Flutter, and Python.
+![yeriz-banner](https://github.com/codeoguz/codeoguz/assets/89513831/195c5b34-1396-4b20-afb5-4651295bd6b8)
 
-![github-featured](https://github.com/codeoguz/codeoguz/assets/89513831/6d127232-2732-4c36-b7ab-7fbc45f7efcf)
+![hatmedecem](https://github.com/codeoguz/codeoguz/assets/89513831/1d1f8541-0457-4718-aec1-09d183e84f2c)
+![flipcard](https://github.com/codeoguz/codeoguz/assets/89513831/04437648-b167-41e0-8ace-1c37a222e997)
 
-    ✨ My life goal is to serve project solutions to finance and entertainment.
 
 ![codeoguz_gif](https://user-images.githubusercontent.com/89513831/148246469-63302409-cf39-4bc8-a2a1-ad0abcc3fe3a.gif) </br>
 
-### Key points:
-- I left high school to learn about programming.
-- I have clear goals.
-
-### Achievements:
-
-<table>
-  <tr>
-    <td>
-<h4> 1 year internship at a software company</h4>
-I underwent an internship at www.codead.com.tr. Internship was about digital marketing and web development.</br>
-<b>Topics:</b> SEO, UI, UX, Graphic Design, Python, React, Project Development
-
-#### <a href='https://hatmecem.web.app'>Hatmedecem</a><br/>
-A web app to read hatms (a whole recitation of Quran) with family and friends.</br>
-**Technologies:** React, Firebase
-
-#### <a href='https://codeoguz.com/projects/flip-card'>FlipCard</a><br/>
-An android app to study any subject with flash cards.</br>
-**Technologies:** Flutter
-    </td>
-    <td>
-#### <a href='https://codeoguz.com/'>Personal Website</a><br/>
-A personal website design inspired by developer.apple.com.
-
-#### <a href='https://github.com/codeoguz/weboost2022'>WeBoost Hackathon</a><br/>
-As my first hackathon we took the 4th place with my team. </br>
-**Technologies:** Javascript, HTML, CSS, Bootstrap
-    </td>
-  </tr>
-</table>
-
-
-
-
+<p>Passionate web developer and designer, drawing inspiration from mindful walks, the puzzle-solving mindset of Rubik's Cube, the craftsmanship of woodworking, and the discipline of bodybuilding. Bringing a unique perspective to every project.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oguz-kaan-demir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@codeoguz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/codeoguz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codeoguz) 

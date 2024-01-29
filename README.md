@@ -21,12 +21,12 @@ Empowered by my daily analysis of startups, I bring a unique perspective to idea
 <br>
 
 <div align="center">
-    <img src="https://github.com/codeoguz/codeoguz/assets/89513831/195c5b34-1396-4b20-afb5-4651295bd6b8" alt="yeriz-banner" width="100%" />
+    <a href="https://codeoguz.com/projelerim/yeriz-platform"><img src="https://github.com/codeoguz/codeoguz/assets/89513831/195c5b34-1396-4b20-afb5-4651295bd6b8" alt="yeriz-banner" width="100%" /></a>
 </div>
 
 <div align="center">
-    <img src="https://github.com/codeoguz/codeoguz/assets/89513831/1d1f8541-0457-4718-aec1-09d183e84f2c" alt="hatmedecem" width="49%" />
-    <img src="https://github.com/codeoguz/codeoguz/assets/89513831/04437648-b167-41e0-8ace-1c37a222e997" alt="flipcard" width="49%" />
+    <a href="https://codeoguz.com/projelerim/flip-card"><img src="https://github.com/codeoguz/codeoguz/assets/89513831/1d1f8541-0457-4718-aec1-09d183e84f2c" alt="hatmedecem" width="49%" /></a>
+    <a href="https://codeoguz.com/projelerim/hatmedecem"><img src="https://github.com/codeoguz/codeoguz/assets/89513831/04437648-b167-41e0-8ace-1c37a222e997" alt="flipcard" width="49%" /></a>
 </div>
 
 ![codeoguz_gif](https://user-images.githubusercontent.com/89513831/148246469-63302409-cf39-4bc8-a2a1-ad0abcc3fe3a.gif) </br>
@@ -35,7 +35,7 @@ Empowered by my daily analysis of startups, I bring a unique perspective to idea
 
 <br>
 
-<img align="left" style="margin-right: 20px" src="https://github.com/codeoguz/codeoguz/assets/89513831/3e9eb62b-7b6a-4aa6-84c1-c55858571263" alt="codead" width="150" />
+<a href="https://codead.com.tr/"><img align="left" style="margin-right: 20px" src="https://github.com/codeoguz/codeoguz/assets/89513831/3e9eb62b-7b6a-4aa6-84c1-c55858571263" alt="codead" width="150" /></a>
 
 I underwent an internship at www.codead.com.tr. Internship was about digital marketing and web development.Topics: SEO, UI, UX, Graphic Design, Python, React, Project Development
 

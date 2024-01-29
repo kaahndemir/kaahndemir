@@ -1,9 +1,11 @@
+![github-featured](https://github.com/codeoguz/codeoguz/assets/89513831/6d127232-2732-4c36-b7ab-7fbc45f7efcf)
+
 Empowered by my daily analysis of startups, I bring a unique perspective to idea creation in development. My process involves sensing the problem, analyzing previous solutions, empathizing with users, ideating innovative concepts, meticulous planning, thoughtful design, and skillful development.
 
 <img align="left" style="margin-right: 20px" width="80" height="80" src="https://github.com/codeoguz/codeoguz/assets/89513831/9f1fddeb-7409-403d-803a-ee913491f2e0">
 
-<b>Exquisite Design</b><br>
-<p>We also trust ourselves in design. Get a creative and useful design.</p><br>
+<b>Fast and Scalable</b><br>
+<p>We will use a fast but scalable workflow to complete your project.</p><br>
 
 <br>
 <img align="left" style="margin-right: 20px" width="80" height="80" src="https://github.com/codeoguz/codeoguz/assets/89513831/ee38f514-35e7-48a8-af44-9e5003ae613b">

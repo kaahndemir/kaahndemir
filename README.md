@@ -1,4 +1,3 @@
-![github-featured](https://github.com/codeoguz/codeoguz/assets/89513831/6d127232-2732-4c36-b7ab-7fbc45f7efcf)
 
 Empowered by my daily analysis of startups, I bring a unique perspective to idea creation in development. My process involves sensing the problem, analyzing previous solutions, empathizing with users, ideating innovative concepts, meticulous planning, thoughtful design, and skillful development.
 

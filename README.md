@@ -6,7 +6,7 @@
 - Founded and the developed [Hatmedecem](https://hatmecem.web.app) in April of 2023.
 - Co-founded and developed [Yeriz](https://yeriz.com.tr) in August of 2023.
 - 5 months of freelance frontend developer and UI designer in [Arbeit Studio](https://github.com/arbeitstudio/) starting in October of 2023.
-- Content creator at [codeoguz](https://instagram.com) since March of 2024.
+- Content creator at [kaahndemir](https://instagram.com/kaahndemir) since March of 2024.
 - Code name "SolveStartup" and much more are incoming...
 
 #### 🌐 Socials:

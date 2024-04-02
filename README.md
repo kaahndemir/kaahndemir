@@ -1,5 +1,6 @@
 
 - I worked for [Papillion](https://papillonbergen.no) as a video editor via Fiverr in 2021.
+- Developed [FlipCard](https://github.com/codeoguz/flipcard) in November of 2021
 - Member of the chief board in [Gençlik Divanı](https://genclikdivani.com)  since April of 2022.
 - 1 year internship at [CodeAd](https://codead.com.tr) starting in February of 2022.
 - Founded and the developed [Hatmedecem](https://hatmecem.web.app) in April of 2023.

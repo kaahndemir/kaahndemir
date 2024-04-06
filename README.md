@@ -5,7 +5,7 @@
 - Member of the chief board in [Gençlik Divanı](https://genclikdivani.com) since April of 2022.
 - I founded and developed [Hatmedecem](https://hatmecem.web.app) in April of 2023.
 - Co-founded and developed [Yeriz](https://yeriz.com.tr) in August of 2023.
-- 5 months of freelance frontend developer and UI designer in [Arbeit Studio](https://github.com/arbeitstudio/) starting in October of 2023.
+- 5 months frontend developer and UI designer in [Arbeit Studio](https://github.com/arbeitstudio/) starting in October of 2023.
 - Content creator at [kaahndemir](https://instagram.com/kaahndemir) since March of 2024.
 - Code name "SolveStartup" and much more are incoming...
 

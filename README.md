@@ -7,6 +7,7 @@
 - Co-founded and developed [Yeriz](https://yeriz.com.tr) in August of 2023.
 - 5 months frontend developer and UI designer in [Arbeit Studio](https://github.com/arbeitstudio/) starting in October of 2023.
 - Content creator at [kaahndemir](https://instagram.com/kaahndemir) since March of 2024.
+- Co-founded [campusintifada](https://campusintifada.com) in May of 2024.
 - Code name "SolveStartup" and much more are incoming...
 
 #### 🌐 Socials:

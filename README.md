@@ -1,14 +1,15 @@
 
-- I worked for [Papillion](https://papillonbergen.no) as a video editor via Fiverr in 2021.
-- I developed [FlipCard](https://github.com/kaahndemir/flipcard) in November of 2021.
-- 1 year internship at [CodeAd](https://codead.com.tr) starting in February of 2022.
-- Member of the chief board in [Gençlik Divanı](https://genclikdivani.com) since April of 2022.
-- I founded and developed [Hatmedecem](https://hatmecem.web.app) in April of 2023.
-- Co-founded and developed [Yeriz](https://yeriz.com.tr) in August of 2023.
-- 5 months frontend developer and UI designer in [Arbeit Studio](https://github.com/arbeitstudio/) starting in October of 2023.
-- Content creator at [kaahndemir](https://instagram.com/kaahndemir) since March of 2024.
-- Co-founded [campusintifada](https://campusintifada.org) in May of 2024.
-- Code name "SolveStartup" and much more are incoming...
+- I worked for [Papillion](https://papillonbergen.no) (a Norway NGO) as a video editor via Fiverr in 2021.
+- I developed [FlipCard](https://github.com/kaahndemir/flipcard) (memorization android app) in November of 2021.
+- 1 year internship at [CodeAd](https://codead.com.tr) (digital marketing agency) starting in February of 2022.
+- Member of the chief board in [Gençlik Divanı](https://genclikdivani.com) (think tank organization) since April of 2022.
+- I founded and developed [Hatmedecem](https://hatmecem.web.app) (a web app to read whole recitation of Qur'an with friends) in April of 2023.
+- Co-founded and developed [Yeriz](https://yeriz.com.tr) (food ordering web app with unique features) in August of 2023.
+- Frontend developer and UI designer in [Arbeit Studio](https://github.com/arbeitstudio/) (development studio) for 5 months starting in October of 2023.
+- Content creator at [kaahndemir](https://instagram.com/kaahndemir) (videos about tech) since March of 2024.
+- Co-founded [campusintifada](https://campusintifada.org) (campaign organization for Palestine) in May of 2024.
+- Founded [Kaahn](https://kaahn.com) (web agency) in July of 2024.
+
 
 #### 🌐 Socials:
 

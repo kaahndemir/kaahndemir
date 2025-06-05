@@ -3,7 +3,7 @@
 - I developed [FlipCard](https://github.com/kaahndemir/flipcard) (memorization android app) in November of 2021.
 - 1 year internship at [CodeAd](https://codead.com.tr) (digital marketing agency) starting in February of 2022.
 - Member of the chief board in [Gençlik Divanı](https://genclikdivani.com) (think tank organization) since April of 2022.
-- I founded and developed [Hatmedecem](https://hatmecem.web.app) (a web app to read whole recitation of Qur'an with friends) in April of 2023.
+- I founded and developed [Hatmedecem](https://hatmedecem.com) (a web app to read whole recitation of Qur'an with friends) in April of 2023.
 - Co-founded and developed [Yeriz](https://yeriz.com.tr) (food ordering web app with unique features) in August of 2023.
 - Frontend developer and UI designer in [Arbeit Studio](https://github.com/arbeitstudio/) (development studio) for 5 months starting in October of 2023.
 - Content creator at [kaahndemir](https://instagram.com/kaahndemir) (videos about tech) since March of 2024.

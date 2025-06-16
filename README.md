@@ -10,7 +10,7 @@
 - Co-founded [campusintifada](https://campusintifada.org) (campaign organization for Palestine) in May of 2024.
 - Founded [Kaahn](https://kaahn.com) (web agency) in July of 2024.
 - Started at [42 Schools](https://42istanbul.com.tr) in May of 2025.
-- I developed [Yeşil Media](https://yesil.media) in June of 2025.
+- I designed and developed [Yeşil Media](https://yesil.media) in June of 2025.
 
 
 #### 🌐 Socials:

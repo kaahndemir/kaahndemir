@@ -15,7 +15,7 @@
 
 #### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaahn) [![Instagram](https://img.shields.io/badge/Instagram-12100E?logo=instagram&logoColor=white)](https://instagram.com/@kaahndemir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaahn) [![Instagram](https://img.shields.io/badge/Instagram-12100E?logo=instagram&logoColor=white)](https://instagram.com/kaahndemir)
 
 #### 💻 Tech Stack:
 
